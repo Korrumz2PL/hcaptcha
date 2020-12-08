@@ -1,4 +1,4 @@
-# hCaptcha page EXAMPLE.
+# hCaptcha example.
 
 # Demo 
 
