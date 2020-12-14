@@ -21,4 +21,4 @@ Replace text "sitekey" to YOUR site key. You can find it at the https://hcaptcha
 
 # Setup tutorial 
 
-SoonTM
+https://www.youtube.com/watch?v=K7O1btI1KZw 
